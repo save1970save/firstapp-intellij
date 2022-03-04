@@ -11,6 +11,8 @@ public class Main {
     System.out.println(product.getName());
 
     System.out.println("Bye Bye World !!!");
+
+    System.out.println("Bye Bye World !!!");
     }
 
 }
