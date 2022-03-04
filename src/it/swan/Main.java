@@ -10,6 +10,7 @@ public class Main {
     Product product = new Product("Keybooard");
     System.out.println(product.getName());
 
+    System.out.println("Bye Bye World !!!");
     }
 
 }
